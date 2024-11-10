@@ -3,16 +3,16 @@
 This is a full-stack Learning Management System (LMS) application built using the MERN stack (MongoDB, Express, React, Node.js). The LMS allows students to enroll in courses, view content, and track progress. Teachers can manage courses, and administrators have access to user and course management functionalities.
 
 ## Table of Contents
--1.[Project Structure](#project-structure)
--2.[Installation](#installation)
--3.[Environment Variables](#environment-variables)
--4.[Usage](#usage)
--5.[Features](#features)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Environment Variables](#environment-variables)
+- [Usage](#usage)
+- [Features](#features)
   - [User Features](#user-features)
   - [Teacher Features](#teacher-features)
   - [Admin Features](#admin-features)
--6.[Tech Stack](#tech-stack)
----
+- [Tech Stack](#tech-stack)
+
 ## Project Structure
 The project is organized into two main folders:
 - `frontend/` - Contains the front-end React code for the LMS application.
@@ -34,7 +34,7 @@ The project is organized into two main folders:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Bhuvaneshsonujiji/Online_learining_platform.git
+git clone https://github.com/Bhuvaneshsonujiji/Online_learining_platform
 cd Online_learining_platform
 ```
 
@@ -106,6 +106,7 @@ npm start
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JSON Web Token (JWT)
-```
 
-This `README.md` file is now formatted for direct copy-pasting into VS Code. Just replace `<repository_url>` and `<repository_folder>` with your actual repository URL and folder name if needed.
+---
+
+This `README.md` file provides a clear structure and guides users through the installation, configuration, and usage of the application. You can further customize the sections based on any additional functionality or details specific to your project.
