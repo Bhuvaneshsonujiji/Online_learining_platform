@@ -3,15 +3,15 @@
 This is a full-stack Learning Management System (LMS) application built using the MERN stack (MongoDB, Express, React, Node.js). The LMS allows students to enroll in courses, view content, and track progress. Teachers can manage courses, and administrators have access to user and course management functionalities.
 
 ## Table of Contents
-1.[Project Structure](#project-structure)
-2.[Installation](#installation)
-3.[Environment Variables](#environment-variables)
-4.[Usage](#usage)
-5.[Features](#features)
+-1.[Project Structure](#project-structure)
+-2.[Installation](#installation)
+-3.[Environment Variables](#environment-variables)
+-4.[Usage](#usage)
+-5.[Features](#features)
   - [User Features](#user-features)
   - [Teacher Features](#teacher-features)
   - [Admin Features](#admin-features)
-6.[Tech Stack](#tech-stack)
+-6.[Tech Stack](#tech-stack)
 ---
 ## Project Structure
 The project is organized into two main folders:
