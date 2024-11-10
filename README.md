@@ -108,5 +108,10 @@ npm start
 - **Authentication**: JSON Web Token (JWT)
 
 ---
+## Project Demo
+
+Here’s a quick demo showcasing the main features and functionality of the Online Learning Platform. This video walks through the user experience, highlighting both student and teacher functionalities, as well as admin features.
+
+[![Watch the demo video]](https://drive.google.com/file/d/14YYaBUnQSJ4qynobGA1aqs8L5QXYmU07/view?usp=sharing)
 
 This `README.md` file provides a clear structure and guides users through the installation, configuration, and usage of the application. You can further customize the sections based on any additional functionality or details specific to your project.
