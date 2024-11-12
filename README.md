@@ -3,7 +3,7 @@
 
 # Online Learning Platform (MERN Stack Application)
 
-This is a full-featured Learning Management System (LMS) built using the MERN stack (MongoDB, Express.js, React, Node.js). It enables students to enroll in courses, view content, and track progress, while teachers can manage their courses and administrators handle overall platform operations, including user and course management.
+This is a full-featured Online Learning Platform  built using the MERN stack (MongoDB, Express.js, React, Node.js). It enables students to enroll in courses, view content, and track progress, while teachers can manage their courses and administrators handle overall platform operations, including user and course management.
 
 ## Table of Contents
 
