@@ -29,6 +29,7 @@ This is a full-featured Learning Management System (LMS) built using the MERN st
 - [Project Demo](#project-demo)
 - [Additional Resources](#additional-resources)
    - [Project Report](#project-report)
+- [Conclusion](#conclusion)
      
 
 ---
@@ -132,7 +133,21 @@ MONGO_DB=mongodb://localhost:27017/lms
 PORT=5000
 JWT_KEY=my_super_secret_key_123456
 ```
+or
 
+```plaintext
+MONGO_DB=mongodb+srv://<username>:<password>@<cluster-url>/<database>?retryWrites=true&w=majority
+```
+
+Replace each placeholder as follows:
+
+- `<username>`: Your MongoDB Atlas database username.
+- `<password>`: The password for the above username. Make sure to URL-encode it if it contains special characters (e.g., `@`, `&`, `$`).
+- `<cluster-url>`: The cluster URL provided by MongoDB Atlas.
+- `<database>`: The name of your database. You can specify a new database name here; MongoDB will create it if it doesn’t exist.
+
+
+> **Important**: Never hard-code sensitive information in your source code. Keep the `.env` file out of version control by adding it to your `.gitignore` file.
 - `MONGO_DB`: MongoDB connection string.
 - `PORT`: Server port (default: 5000).
 - `JWT_KEY`: Secret key for JSON Web Token (JWT) authentication.
@@ -194,7 +209,7 @@ For frontend and backend installation steps, see the [Installation](#installatio
 
 Watch a quick demo showcasing the features and functionalities of the Online Learning Platform, demonstrating the user, teacher, and admin views.
 
-[![Watch the output video]](https://drive.google.com/file/d/14YYaBUnQSJ4qynobGA1aqs8L5QXYmU07/view?usp=sharing)
+[![Demo video]](https://drive.google.com/file/d/14YYaBUnQSJ4qynobGA1aqs8L5QXYmU07/view?usp=sharing)
 You can add the links to your **Project Report** and **Screenshots of Installation** in the README file under a new section. Here’s how it might look:
 
 ---
@@ -206,4 +221,7 @@ You can add the links to your **Project Report** and **Screenshots of Installati
 
 ---
 
+## Conclusion
+
+The **Online Learning Platform** provides an accessible, scalable, and feature-rich solution for online education. Through a structured approach, students, teachers, and administrators can interact effectively, creating an enriched learning environment. This MERN-based platform is designed to support educational growth, scalability, and easy maintenance, making it suitable for a wide range of users and institutions.
 
