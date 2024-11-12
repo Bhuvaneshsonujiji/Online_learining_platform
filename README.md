@@ -206,7 +206,4 @@ You can add the links to your **Project Report** and **Screenshots of Installati
 
 ---
 
-Adding this section near the end of the README file will provide easy access to your project documentation and installation guide for users.
----
 
-This README file provides a comprehensive guide to your Online Learning Platform, covering setup, functionality, system requirements, and usage. You can further expand specific sections based on additional features or updates.
