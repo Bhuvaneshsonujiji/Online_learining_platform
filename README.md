@@ -27,6 +27,9 @@ This is a full-featured Learning Management System (LMS) built using the MERN st
 - [Application Flow](#application-flow)
 - [Project Implementation](#project-implementation)
 - [Project Demo](#project-demo)
+- [Additional Resources](#additional-resources)
+   - [Project Report](#project-report)
+     
 
 ---
 
@@ -192,7 +195,18 @@ For frontend and backend installation steps, see the [Installation](#installatio
 Watch a quick demo showcasing the features and functionalities of the Online Learning Platform, demonstrating the user, teacher, and admin views.
 
 [![Watch the output video]](https://drive.google.com/file/d/14YYaBUnQSJ4qynobGA1aqs8L5QXYmU07/view?usp=sharing)
+You can add the links to your **Project Report** and **Screenshots of Installation** in the README file under a new section. Here’s how it might look:
 
+---
+
+## Additional Resources
+### Project Report
+- **[Project Report](https://github.com/Bhuvaneshsonujiji/Online_learining_platform/blob/master/Online%20Learning%20Project%20Report.pdf)**: Detailed documentation of the Online Learning Platform project.
+- **[Screenshots of Installation and Execution](https://github.com/Bhuvaneshsonujiji/Online_learining_platform/blob/master/Screenshots%20of%20Installation%20and%20Execution%20%20of%20Online%20learning%20project.pdf)**: Step-by-step screenshots of the installation and execution process.
+
+---
+
+Adding this section near the end of the README file will provide easy access to your project documentation and installation guide for users.
 ---
 
 This README file provides a comprehensive guide to your Online Learning Platform, covering setup, functionality, system requirements, and usage. You can further expand specific sections based on additional features or updates.
