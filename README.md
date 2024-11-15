@@ -209,8 +209,8 @@ For frontend and backend installation steps, see the [Installation](#installatio
 
 Watch a quick demo showcasing the features and functionalities of the Online Learning Platform, demonstrating the user, teacher, and admin views.
 
-[![Demo video]](https://drive.google.com/file/d/14YYaBUnQSJ4qynobGA1aqs8L5QXYmU07/view?usp=sharing)
-You can add the links to your **Project Report** and **Screenshots of Installation** in the README file under a new section. Here’s how it might look:
+[[Demo video click here ]](https://drive.google.com/file/d/14YYaBUnQSJ4qynobGA1aqs8L5QXYmU07/view?usp=sharing)
+
 
 ---
 
