@@ -26,7 +26,7 @@ This is a full-featured Online Learning Platform  built using the MERN stack (Mo
 - [Tech Stack](#tech-stack)
 - [Application Flow](#application-flow)
 - [Project Implementation](#project-implementation)
-- [Project Demo](#project-demo)
+- [Project Demo video](#project-demo)
 - [Additional Resources](#additional-resources)
    - [Project Report](#project-report)
 - [Conclusion](#conclusion)
